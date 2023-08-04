@@ -17,7 +17,7 @@ const Hero = (props: React.HTMLAttributes<HTMLElement>) => {
         Edit pas foto. <br /> Tanpa skill edit foto.
       </h1>
       <a
-        href="https://github.com/abielzulio/editpasfoto"
+        href="https://github.com/protheeuz/edit-photo"
         target="_blank"
         rel="noopener noreferrer"
         className="text-white mx-auto flex items-center gap-[10px] bg-white bg-opacity-0 hover:bg-opacity-[0.08] rounded-full px-[10px] py-[5px] transition border-white border-[0.125px] border-opacity-0 hover:border-opacity-[0.08] opacity-50 hover:opacity-100"
@@ -34,7 +34,7 @@ const Hero = (props: React.HTMLAttributes<HTMLElement>) => {
             fill="currentColor"
           ></path>
         </svg>
-        abielzulio/editpasfoto
+        iqbalfauzien/editfoto
       </a>
     </section>
   )

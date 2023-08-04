@@ -22,7 +22,7 @@ const Download = (props: DownloadProps) => {
           link.download = `${fileName.replace(
             ".png",
             ""
-          )} - editpasphoto.com.png`
+          )} - mathimatech - editfoto.png`
           link.href = dataUrl
           link.click()
         })
@@ -36,7 +36,7 @@ const Download = (props: DownloadProps) => {
           link.download = `${fileName.replace(
             ".jpeg",
             ""
-          )} - editpasphoto.com.jpeg`
+          )} - mathimatech - editfoto.jpeg`
           link.href = dataUrl
           link.click()
         })
