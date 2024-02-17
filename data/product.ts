@@ -22,7 +22,7 @@ export const product: Product = {
   },
   tagline: "Edit pas photo, tanpa skill edit photo",
   keywords: "edit pas foto, pas foto, ganti rasio, almamater, jas formal",
-  url: "https://editpasfoto.com",
+  url: "https://editfoto.vercel.app",
   img: "/img/og.png",
   author: "Iqbal F",
   favicon: "/img/favicon.png",
